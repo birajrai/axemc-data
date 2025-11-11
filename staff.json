@@ -1,31 +1,29 @@
+
 {
     "Owner": [
-        { "DarkWhiz": "AxeMC", "role": "Owner" },
-        { "CloudTheo": "AxeMC", "role": "Honorary Owner" }
+        { "name": "AxeMC", "role": "Owner" },
+        { "name": "AxeMC", "role": "Honorary Owner" }
+    ],
+    "Manager": [
+        { "name": "AxeMC", "role": "Server Manager" },
+        { "name": "AxeMC", "role": "Discord Manager" }
     ],
     "Developer": [
-        { "KiratDewas": "AxeMC", "role": "Web Developer" },
-        { "Yuno": "AxeMC", "role": "Minecraft Developer" }
+        { "name": "AxeMC", "role": "Web Developer" },
+        { "name": "AxeMC", "role": "Web Developer" }
     ],
     "Administrator": [
-        { "Mr.You.D": "AxeMC", "role": "Minecraft Administrator" },
-        { "Chatur": "AxeMC", "role": "Minecraft Administrator" },
-        { "Shubh": "AxeMC", "role": "Discord Administrator" },
-       
+        { "name": "AxeMC", "role": "Minecraft Administrator" },
+        { "name": "AxeMC", "role": "Minecraft Administrator" },
+        { "name": "AxeMC", "role": "Discord Administrator" },
+        { "name": "AxeMC", "role": "Discord Administrator" }
     ],
-    "Admin": [
-        { "Anup": "AxeMC", "role": "Adminr" },
-        { "Zecerz": "AxeMC", "role": "Admin" }
+    "Event Manager": [
+        { "name": "AxeMC", "role": "Event Manager" },
+        { "name": "AxeMC", "role": "Event Manager" }
     ],
     "Content Creator": [
-        { "MJai": "AxeMC", "role": "Content Creator" },
+        { "name": "AxeMC", "role": "Content Creator" },
+        { "name": "AxeMC", "role": "Content Creator" }
     ]
-     "Moderator": [
-        { "Flame": "AxeMC", "role": "Moderator" },
-        { "Itachi": "AxeMC", "role": "Moderator" }
-    ],
-    "Helpers": [
-        { "Safal": "AxeMC", "role": "Helper" },
-        { "Sobit": "AxeMC", "role": "Helper " }
-    ],
 }
