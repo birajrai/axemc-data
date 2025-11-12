@@ -1,4 +1,4 @@
-
+{
     "Owner": [
         { "name": "DarkWhiz", "role": "Owner" },
         { "name": "CloudTheo", "role": "Honorary Owner" }
@@ -13,7 +13,7 @@
         { "name": "Shubh", "role": "Discord Administrator" }
     ],
     "Admin": [
-        { "name": "Anup", "role": "Adminr" },
+        { "name": "Anup", "role": "Admin" },
         { "name": "Zecerz", "role": "Admin" }
     ],
     "Editors": [
