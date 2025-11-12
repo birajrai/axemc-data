@@ -1,4 +1,4 @@
-{
+D{
     "Owner": [
         { "name": "DarkWhiz", "role": "Owner" },
         { "name": "CloudTheo", "role": "Honorary Owner" }
@@ -16,8 +16,8 @@
         { "name": "Anup", "role": "Adminr" },
         { "name": "Zecerz", "role": "Admin" }
     ],
-    "Content Creator": [
-        { "name": "MJai", "role": "Content Creator" }
+    "Editors": [
+        { "name": "MJai", "role": "Editor" }
     ],
     "Moderator": [
         { "name": "Flame", "role": "Moderator" },
